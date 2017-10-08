@@ -1,0 +1,24 @@
+Team – encodegeek
+Theme- Customer Acquisition and Experience
+Problem Statement: “Identify “ and “reach “ prospective and profitable customers for retail loans and deposits products. 
+Assumptions: 
+Bank is providing services to customers in all the possible accessible channels like digital media ,ATM and branches etc 
+Marketing strategy is put in place to target new customers taking Customer Lifetime Value into consideration. 
+Objective : Market share for the retail products loans and deposits should increase substantially with higher lead conversion rate.
+Breakdown of Problem to a working solution:
+  Identify – Gather all leads generated through any channel of communication by customer.
+  Prioritize – With historical records of loan and deposit products identify  the data points and it’s weightage in lead conversion.
+  Build an engine and train it with past records to prioritize the leads.
+  Reach – Provide a suitable mechanism for associates to reach those prioritize leads  with no time in customer preferred communication  channel .
+ Integrate – Build an API and/ or Webmashup making it easy to integrate with existing traditional systems in bank.
+Problems Solved /Benefits
+Spend time and money wisely on the prospective customers rather than on less Lifetime Value customers.
+Increased retail portfolio with safe and smart ROI.  
+Provide enhanced capabilities to existing systems and not involving transition costs from one system to other.
+Measure of Success:
+A parameter LPV lead prioritized value greater than 75% must be converted to sales
+
+
+
+Limitations: This solution is not for improving the number of leads.
+Link to access project artifacts here.
