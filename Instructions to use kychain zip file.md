@@ -1,6 +1,6 @@
 The following instructions are for windows machines (x86 or x64) only:
 
-* follow the instructions to [Download and install](https://www.multichain.com/download-install/) multichain zip
+* Follow the instructions to [Download and install](https://www.multichain.com/download-install/) multichain zip
 * Add the multichain install folder path to [environment variables](https://superuser.com/questions/737542/how-can-i-add-a-program-path-to-the-windows-environment-variables-for-easy-comma)
 
 
@@ -15,11 +15,8 @@ The following instructions are for windows machines (x86 or x64) only:
 
 * Download multichain explorer from [here](https://github.com/MultiChain/multichain-explorer) as a zip
 * Unzip the contents
-* Open cmd and run the command 
-`cd <path>/<to>/multichain-explorer-folder`
-* run the command 
-`python setup.py install`
-This will install Mce.abe Python module
+* Open cmd and run the command \n `cd <path>/<to>/multichain-explorer-folder`
+* run the command \n `python setup.py install`\nThis will install Mce.abe Python module
 
 Once you have confirmed that all the installations are complete and proper:
 * download kychain.zip from this repository
@@ -27,15 +24,15 @@ Once you have confirmed that all the installations are complete and proper:
 * Unzip the contents into the folder you wish to keep
 
 * Open a cmd instance and run the following commands;
-`cd <path>/<to>/kychain/servernminer
-start /b multichaind -datadir=. kychain -daemon`
+`cd <path>/<to>/kychain/servernminer`\n
+`start /b multichaind -datadir=. kychain -daemon`
 
 if all is well, the blockchain node will be accessible at <your-ip-addrss>:4765
 
 * Now open another cmd instance and rum the following commands:
 
-`cd <path>/<to>/kychain/node1
-start /b multichaind -datadir=. kychain@<your-ip-addrss>:4765 -daemon`
+`cd <path>/<to>/kychain/node1`\n
+`start /b multichaind -datadir=. kychain@<your-ip-addrss>:4765 -daemon`
 
 * If node1 doesn't havd connect permissions to the blockchain, follow the instructions under "2. Connecting to a blockchain" while using the "-datadir=." right after the "multichain-cli" (command as explained) [here](https://www.multichain.com/getting-started).here node "servernminer' is the genesis node
 
@@ -47,7 +44,7 @@ Launch wamp server
 * in your browswr go to "localhost/kychaindemo' If all is well you'll aee a website similar to [this](http://52.172.209.229/multichain-web-demo/)
 
 * Launch another cmd instance and run the following commands:
-`cd  <path>/<to>/kychainexplorer/
-python -m Mce.abe --config kycchain.conf`
+`cd  <path>/<to>/kychainexplorer/`\n
+`python -m Mce.abe --config kycchain.conf`
 
 * If all goes well, in your browser the multichain explorer will launch at http://localhost:2750/ with a green label connection phrase against the chain name. IF all is well it will look like [this](http://52.172.209.229:2750/)
