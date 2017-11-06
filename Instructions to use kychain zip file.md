@@ -4,7 +4,7 @@ The following instructions are for windows machines (x86 or x64) only:
 * Add the multichain install folder path to [environment variables](https://superuser.com/questions/737542/how-can-i-add-a-program-path-to-the-windows-environment-variables-for-easy-comma)
 
 
-* [Download and install](https://sourceforge.net/projects/wampserver/) wamp server
+* [Download and install](https://excellmedia.dl.sourceforge.net/project/wampserver/WampServer%202/Wampserver%202.5/wampserver2.5-Apache-2.4.9-Mysql-5.6.17-php5.5.12-64b.exe) wamp server
 * If it throws error for vcredist dlls, uninstall wamp completely.
 * [Download and install](http://forum.wampserver.com/read.php?2,138295) vc redist in a sequential order depending on your architecture (x86 or x64). Install WAMP again.
 
