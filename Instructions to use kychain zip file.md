@@ -1,6 +1,6 @@
 The following instructions are for windows machines (x86 or x64) only:
 
-* Follow the instructions to [Download and install](https://www.multichain.com/download-install/) multichain zip
+* Follow the instructions to [Download and install](https://www.multichain.com/download-install/) multichain zip(version 1.0.1, Protocol	10009)
 * Add the multichain install folder path to [environment variables](https://superuser.com/questions/737542/how-can-i-add-a-program-path-to-the-windows-environment-variables-for-easy-comma)
 
 
