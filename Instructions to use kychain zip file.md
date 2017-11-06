@@ -35,7 +35,7 @@ If all is well, the blockchain node will be accessible at `<your-ip-addrss>:4765
 
 * If node1 doesn't havd connect permissions to the blockchain, follow the instructions under "2. Connecting to a blockchain" while using the "-datadir=." right after the "multichain-cli" (command as explained) [here](https://www.multichain.com/getting-started).here node "servernminer' is the genesis node
 
-* copy  `<path>/<to>/kychaindemo` and paste the folder and its contents as is into `<path>/<to>/wamp-instsllstion/www/`
+* copy  `<path>/<to>/kychaindemo` and paste the folder and its contents as is into `<path>/<to>/wamp-installation/www/`
 
 Launch wamp server
 
