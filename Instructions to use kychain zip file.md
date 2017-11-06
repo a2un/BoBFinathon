@@ -6,7 +6,7 @@ Add the multichain install folder path to [environment variables](https://superu
 
 [Download and install](https://sourceforge.net/projects/wampserver/) wamp server
 If it throws error for vcredist dlls, uninstall wamp completely.
-[Download and install](http://forum.wampserver.com/read.php?2,138295) vc redist in a sequential order depending on your architecture (x86 or x64)
+[Download and install](http://forum.wampserver.com/read.php?2,138295) vc redist in a sequential order depending on your architecture (x86 or x64). Install WAMP again.
 
 Install Python2.7
 Install VC for Python 2.7
