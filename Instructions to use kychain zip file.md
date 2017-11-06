@@ -27,7 +27,7 @@ Once you have confirmed that all the installations are complete and proper:
 `cd <path>/<to>/kychain/servernminer`<br/>
 `start /b multichaind -datadir=. kychain -daemon`
 
-if all is well, the blockchain node will be accessible at <your-ip-addrss>:4765
+If all is well, the blockchain node will be accessible at <your-ip-addrss>:4765
 
 * Now open another cmd instance and rum the following commands:
 
@@ -36,15 +36,14 @@ if all is well, the blockchain node will be accessible at <your-ip-addrss>:4765
 
 * If node1 doesn't havd connect permissions to the blockchain, follow the instructions under "2. Connecting to a blockchain" while using the "-datadir=." right after the "multichain-cli" (command as explained) [here](https://www.multichain.com/getting-started).here node "servernminer' is the genesis node
 
-
 * copy  <path>/<to>/kychaindemo and paste the folder and its contents as is into <path>/<to>/wamp-instsllstion/www/
 
 Launch wamp server
 
-* in your browswr go to "localhost/kychaindemo' If all is well you'll aee a website similar to [this](http://52.172.209.229/multichain-web-demo/)
+* In your browswer go to "localhost/kychaindemo' If all is well you'll aee a website similar to [this](http://52.172.209.229/multichain-web-demo/)
 
 * Launch another cmd instance and run the following commands:
 `cd  <path>/<to>/kychainexplorer/`<br/>
 `python -m Mce.abe --config kycchain.conf`
 
-* If all goes well, in your browser the multichain explorer will launch at http://localhost:2750/ with a green label connection phrase against the chain name. IF all is well it will look like [this](http://52.172.209.229:2750/)
+If all goes well, in your browser the multichain explorer will launch at http://localhost:2750/ with a green label connection phrase against the chain name. IF all is well it will look like [this](http://52.172.209.229:2750/)
