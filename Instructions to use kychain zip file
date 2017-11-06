@@ -1,8 +1,7 @@
 The following instructions are for windows machines (x86 or x64) only:
 
-[Download](https://www.multichain.com/download-install/) multichain zip
-Unzip the contents into a folder named "multichain"
-Add the folder path to environment variables
+follow the instructions to [Download and install](https://www.multichain.com/download-install/) multichain zip
+Add the multichain install folder path to [environment variables](https://superuser.com/questions/737542/how-can-i-add-a-program-path-to-the-windows-environment-variables-for-easy-comma)
 
 
 [Download and install]() wamp server
