@@ -16,7 +16,7 @@ The following instructions are for windows machines (x86 or x64) only:
 * Download multichain explorer from [here](https://github.com/MultiChain/multichain-explorer) as a zip
 * Unzip the contents
 * Open cmd and run the command <br/> `cd <path>/<to>/multichain-explorer-folder`
-* run the command <br/> `python setup.py install`\nThis will install Mce.abe Python module
+* run the command <br/> `python setup.py install`<br/> This will install Mce.abe Python module
 
 Once you have confirmed that all the installations are complete and proper:
 * download kychain.zip from this repository
