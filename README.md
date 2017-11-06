@@ -8,4 +8,7 @@ Project for Finathon Challenge
 ~~* All changes of KYC based blockchain bkycchain are at [here](https://github.com/a2un/BoBFinathon/tree/bkcKYC)~~
 
 Contact Emails:
-Arun Balajiee [cs11b042@iith.ac.in](mailto:cs11b042@iith.ac.in)
+<br/> Arun Balajiee [cs11b042@iith.ac.in](mailto:cs11b042@iith.ac.in)
+<br/> 
+<br/> 
+<br/> 
