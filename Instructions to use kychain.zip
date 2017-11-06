@@ -1,6 +1,6 @@
 The following instructions are for windows machines (x86 or x64) only:
 
-[Download]() multichain zip
+[Download](https://www.multichain.com/download-install/) multichain zip
 Unzip the contents into a folder named "multichain"
 Add the folder path to environment variables
 
