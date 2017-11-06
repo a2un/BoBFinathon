@@ -1,0 +1,35 @@
+The following instructions are for windows machines (x86 or x64) only:
+
+[Download]() multichain zip
+Unzip the contents into a folder named "multichain"
+Add the folder path to environment variables
+
+
+[Download and install]() wamp server
+If it throws error for vcredist dlls, uninstall wamp completely.
+[Download and install]() vc redist in a sequential order depending on your architecture (x86 or x64)
+
+Install Python2.7
+Install VC for Python 2.7
+[Donwload and install]() pip
+Install pycrypto using pip
+
+Download multichain explorer from [here]() as a zip
+Unzip the contents
+Open cmd and run the command "cd <path>/<to>/multichain-explorer-folder"
+run the command "python setup.py install".This will install Mce.abe Python module
+
+Once you have confirmed that all the installations are complete and proper:
+download kychain.zip from this repository
+
+Unzip the contents into the folder you wish to keep
+
+Open a cmd instance and run the following commands;
+cd <path>/<to>/kychain/servernminer
+start /b multichaind -datadir=. kychain -daemon
+
+if all is well, the blockchain node will be accessible at <your-ip-addrss>:4765
+
+Now open another cmd instance and rum the following commands:
+cd <path>/<to>/kychain/node1
+start /b multichaind -datadir=. kychain@<your-ip-addrss>:4765 -daemon
