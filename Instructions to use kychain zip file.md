@@ -41,7 +41,7 @@ Launch wamp server
 
 * In your browswer go to "localhost/kychaindemo' If all is well you'll see a website similar to [this](http://52.172.209.229/multichain-web-demo/)
 
-* Launch another cmd instance and run the following commands:
+* Launch another cmd instance and run the following commands:<br />
 `cd  <path>/<to>/kychainexplorer/`<br/>
 `python -m Mce.abe --config kycchain.conf`
 
