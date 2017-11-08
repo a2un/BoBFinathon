@@ -23,7 +23,7 @@ Once you have confirmed that all the installations are complete and proper:
 
 * Unzip the contents into the folder you wish to keep
 
-* Open a cmd instance and run the following commands;
+* Open a cmd instance and run the following commands:<br/>
 `cd <path>/<to>/kychain/servernminer`<br/>
 `start /b multichaind -datadir=. kychain -daemon`
 
@@ -39,7 +39,7 @@ If all is well, the blockchain node will be accessible at `<your-ip-addrss>:4765
 
 Launch wamp server
 
-* In your browswer go to "localhost/kychaindemo' If all is well you'll aee a website similar to [this](http://52.172.209.229/multichain-web-demo/)
+* In your browswer go to "localhost/kychaindemo' If all is well you'll see a website similar to [this](http://52.172.209.229/multichain-web-demo/)
 
 * Launch another cmd instance and run the following commands:
 `cd  <path>/<to>/kychainexplorer/`<br/>
