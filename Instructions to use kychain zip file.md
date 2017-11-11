@@ -8,8 +8,8 @@ The following instructions are for windows machines (x86 or x64) only:
 * If it throws error for vcredist dlls, uninstall wamp completely.
 * [Download and install](http://forum.wampserver.com/read.php?2,138295) vc redist in a sequential order depending on your architecture (x86 or x64). Install WAMP again.
 
-* Install Python2.7
-* Install VC for Python 2.7
+* [Download and Install](https://www.python.org/ftp/python/2.7/python-2.7.amd64.msi) Python2.7
+* [Download and Install](https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D907B/VCForPython27.msi) VC for Python 2.7
 * [Download and install](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows#12476379) pip
 * Install pycrypto using pip
 
