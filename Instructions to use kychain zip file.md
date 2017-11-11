@@ -12,6 +12,7 @@ The following instructions are for windows machines (x86 or x64) only:
 * [Download and Install](https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D907B/VCForPython27.msi) VC for Python 2.7
 * [Download and install](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows#12476379) pip
 * Install pycrypto using pip
+`pip install pycrypto`
 
 * Download multichain explorer from [here](https://github.com/MultiChain/multichain-explorer) as a zip
 * Unzip the contents
