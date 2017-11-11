@@ -20,7 +20,7 @@ The following instructions are for windows 7 machines (x86 or x64) only:
 * run the command <br/> `python setup.py install`<br/> This will install Mce.abe Python module
 
 Once you have confirmed that all the installations are complete and proper:
-* download [kychain.zip](https://github.com/a2un/BoBFinathon/raw/master/BoBFinathonKYChain.zip) from this repository
+* download [kychaindemo.zip](https://github.com/a2un/BoBFinathon/raw/master/kychaindemo.zip) from this repository
 
 * Unzip the contents into the folder you wish to keep
 
