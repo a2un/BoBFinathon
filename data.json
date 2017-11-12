@@ -1,0 +1,62 @@
+[
+    {
+        "Customer_Id": 435723112,
+        "Pan_Card": "ABCDE1234A",
+        "Aadhar_card": 124536987225,
+        "Passport_number": "Z3270445",
+        "Line_Address_1": "A 502 DIAMOND TOWER MILAN PARKCOMPLEX",
+        "Line_Address_2": "TIRUPATI NAGAR PHASE II VIRAR WEST",
+        "Line_Address_3": null,
+        "PIN": 401303,
+        "City": "THANE",
+        "State": "MH",
+        "Address_proof_document": "N",
+        "Mobile_number": "+919845612356",
+        "Land_line_number": "+91224569877"
+    },
+    {
+        "Customer_Id": 436724113,
+        "Pan_Card": "FGHIJ1235B",
+        "Aadhar_card": 124536987225,
+        "Passport_number": "Z3270445",
+        "Line_Address_1": "FLAT NO 202 2ND FLOOR LAL MAHAL CO OP HSG SOC",
+        "Line_Address_2": "LTD THANE EAST",
+        "Line_Address_3": null,
+        "PIN": 400603,
+        "City": "THANE",
+        "State": "MH",
+        "Address_proof_document": "Y",
+        "Mobile_number": "+919845612356",
+        "Land_line_number": "+91224569878"
+    },
+    {
+        "Customer_Id": 437725114,
+        "Pan_Card": "JKASD1236C",
+        "Aadhar_card": 64536987225,
+        "Passport_number": "Z3270445",
+        "Line_Address_1": "A 18  MANSAROVAR COLONY",
+        "Line_Address_2": "VAISHALI NAGAR",
+        "Line_Address_3": null,
+        "PIN": 305001,
+        "City": "AJMER",
+        "State": "RJ",
+        "Address_proof_document": "N",
+        "Mobile_number": "+919845612356",
+        "Land_line_number": "+91224569879"
+    },
+    {
+        "Customer_Id": 438726115,
+        "Pan_Card": "SDFEF1237D",
+        "Aadhar_card": 64536987225,
+        "Passport_number": "Z3270445",
+        "Line_Address_1": "AT SANSARI VILLAGE,POST-DEOLALI CAMP",
+        "Line_Address_2": "MUNJABA CHOWK, H. NO. 85,TAL/DIST NASIK,",
+        "Line_Address_3": null,
+        "PIN": 422401,
+        "City": "DEOLA",
+        "State": "MH",
+        "Address_proof_document": "N",
+        "Mobile_number": "+919845612356",
+        "Land_line_number": "+91224569880"
+    }
+]
